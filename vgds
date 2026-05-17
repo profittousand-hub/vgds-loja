@@ -1,0 +1,7 @@
+vgds-loja/
+  index.html
+  netlify.toml       
+  netlify/
+    functions/
+      criar-pix.js    
+
